@@ -1,4 +1,6 @@
 # admin_panel_grocery_app
 
-#video
-https://github.com/user-attachments/assets/fca307f0-d499-4ee4-a15e-eb13b4080e04
+# video
+https://github.com/user-attachments/assets/6d942862-c71f-41b2-875c-ece35e4380e5
+
+
